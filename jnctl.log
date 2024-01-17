@@ -1,0 +1,291 @@
+Jan 17 18:32:37 ori kernel:   #1  #3  #5  #7  #9 #11 #13 #15
+Jan 17 18:32:37 ori kernel: ENERGY_PERF_BIAS: Set to 'normal', was 'performance'
+Jan 17 18:32:37 ori kernel: pnp 00:03: disabling [mem 0xc0000000-0xcfffffff] because it overlaps 0000:00:02.0 BAR 9 [mem 0x00000000-0xdfffffff 64bit pref]
+Jan 17 18:32:37 ori kernel: hpet_acpi_add: no address or irqs in _CRS
+Jan 17 18:32:37 ori kernel: acpi PNP0C14:06: duplicate WMI GUID 97845ED0-4E6D-11DE-8A39-0800200C9A66 (first instance was on PNP0C14:02)
+Jan 17 18:32:37 ori kernel: iwlwifi 0000:00:14.3: api flags index 2 larger than supported by driver
+Jan 17 18:32:37 ori kernel: asus_wmi: Failed to get WMI notify code: AE_NOT_FOUND
+Jan 17 18:32:37 ori kernel: asus_wmi: Failed to get event during flush: -5
+Jan 17 18:32:37 ori (udev-worker)[493]: event5: Failed to call EVIOCSKEYCODE with scan code 0x7c, and key code 190: Invalid argument
+Jan 17 18:32:37 ori kernel: nvidia: loading out-of-tree module taints kernel.
+Jan 17 18:32:37 ori kernel: nvidia: module license 'NVIDIA' taints kernel.
+Jan 17 18:32:37 ori kernel: Disabling lock debugging due to kernel taint
+Jan 17 18:32:37 ori kernel: nvidia: module license taints kernel.
+Jan 17 18:32:37 ori kernel: 
+Jan 17 18:32:37 ori kernel: thermal thermal_zone1: failed to read out thermal zone (-61)
+Jan 17 18:32:37 ori kernel: iwlwifi 0000:00:14.3: WRT: Invalid buffer destination
+Jan 17 18:32:38 ori kernel: NVRM: loading NVIDIA UNIX x86_64 Kernel Module  545.29.06  Thu Nov 16 01:59:08 UTC 2023
+Jan 17 18:32:38 ori kernel: ACPI Warning: \_SB.PC00.PEG1.PEGP._DSM: Argument #4 type mismatch - Found [Buffer], ACPI requires [Package] (20230331/nsarguments-61)
+Jan 17 18:32:38 ori kernel: ACPI BIOS Error (bug): Failure creating named object [\_SB.PC00.PEG1.PEGP._DSM.USRG], AE_ALREADY_EXISTS (20230331/dsfield-184)
+Jan 17 18:32:38 ori kernel: ACPI Error: AE_ALREADY_EXISTS, CreateBufferField failure (20230331/dswload2-477)
+Jan 17 18:32:38 ori kernel: ACPI Error: Aborting method \_SB.PC00.PEG1.PEGP._DSM due to previous error (AE_ALREADY_EXISTS) (20230331/psparse-529)
+Jan 17 18:32:38 ori kernel: ACPI BIOS Error (bug): Failure creating named object [\_SB.PC00.PEG1.PEGP._DSM.USRG], AE_ALREADY_EXISTS (20230331/dsfield-184)
+Jan 17 18:32:38 ori kernel: ACPI Error: AE_ALREADY_EXISTS, CreateBufferField failure (20230331/dswload2-477)
+Jan 17 18:32:38 ori kernel: ACPI Error: Aborting method \_SB.PC00.PEG1.PEGP._DSM due to previous error (AE_ALREADY_EXISTS) (20230331/psparse-529)
+Jan 17 18:32:38 ori kernel: ACPI BIOS Error (bug): Failure creating named object [\_SB.PC00.PEG1.PEGP._DSM.USRG], AE_ALREADY_EXISTS (20230331/dsfield-184)
+Jan 17 18:32:38 ori kernel: ACPI Error: AE_ALREADY_EXISTS, CreateBufferField failure (20230331/dswload2-477)
+Jan 17 18:32:38 ori kernel: ACPI Error: Aborting method \_SB.PC00.PEG1.PEGP._DSM due to previous error (AE_ALREADY_EXISTS) (20230331/psparse-529)
+Jan 17 18:32:38 ori kernel: ACPI BIOS Error (bug): Failure creating named object [\_SB.PC00.PEG1.PEGP._DSM.USRG], AE_ALREADY_EXISTS (20230331/dsfield-184)
+Jan 17 18:32:38 ori kernel: ACPI Error: AE_ALREADY_EXISTS, CreateBufferField failure (20230331/dswload2-477)
+Jan 17 18:32:38 ori kernel: ACPI Error: Aborting method \_SB.PC00.PEG1.PEGP._DSM due to previous error (AE_ALREADY_EXISTS) (20230331/psparse-529)
+Jan 17 18:32:38 ori kernel: ACPI BIOS Error (bug): Failure creating named object [\_SB.PC00.PEG1.PEGP._DSM.USRG], AE_ALREADY_EXISTS (20230331/dsfield-184)
+Jan 17 18:32:38 ori kernel: ACPI Error: AE_ALREADY_EXISTS, CreateBufferField failure (20230331/dswload2-477)
+Jan 17 18:32:38 ori kernel: ACPI Error: Aborting method \_SB.PC00.PEG1.PEGP._DSM due to previous error (AE_ALREADY_EXISTS) (20230331/psparse-529)
+Jan 17 18:32:38 ori kernel: ACPI BIOS Error (bug): Failure creating named object [\_SB.PC00.PEG1.PEGP._DSM.USRG], AE_ALREADY_EXISTS (20230331/dsfield-184)
+Jan 17 18:32:38 ori kernel: ACPI Error: AE_ALREADY_EXISTS, CreateBufferField failure (20230331/dswload2-477)
+Jan 17 18:32:38 ori kernel: ACPI Error: Aborting method \_SB.PC00.PEG1.PEGP._DSM due to previous error (AE_ALREADY_EXISTS) (20230331/psparse-529)
+Jan 17 18:32:38 ori kernel: ACPI BIOS Error (bug): Failure creating named object [\_SB.PC00.PEG1.PEGP._DSM.USRG], AE_ALREADY_EXISTS (20230331/dsfield-184)
+Jan 17 18:32:38 ori kernel: ACPI Error: AE_ALREADY_EXISTS, CreateBufferField failure (20230331/dswload2-477)
+Jan 17 18:32:38 ori kernel: ACPI Error: Aborting method \_SB.PC00.PEG1.PEGP._DSM due to previous error (AE_ALREADY_EXISTS) (20230331/psparse-529)
+Jan 17 18:32:38 ori kernel: ACPI BIOS Error (bug): Failure creating named object [\_SB.PC00.PEG1.PEGP._DSM.USRG], AE_ALREADY_EXISTS (20230331/dsfield-184)
+Jan 17 18:32:38 ori kernel: ACPI Error: AE_ALREADY_EXISTS, CreateBufferField failure (20230331/dswload2-477)
+Jan 17 18:32:38 ori kernel: ACPI Error: Aborting method \_SB.PC00.PEG1.PEGP._DSM due to previous error (AE_ALREADY_EXISTS) (20230331/psparse-529)
+Jan 17 18:32:38 ori kernel: ACPI BIOS Error (bug): Failure creating named object [\_SB.PC00.PEG1.PEGP._DSM.USRG], AE_ALREADY_EXISTS (20230331/dsfield-184)
+Jan 17 18:32:38 ori kernel: ACPI Error: AE_ALREADY_EXISTS, CreateBufferField failure (20230331/dswload2-477)
+Jan 17 18:32:38 ori kernel: ACPI Error: Aborting method \_SB.PC00.PEG1.PEGP._DSM due to previous error (AE_ALREADY_EXISTS) (20230331/psparse-529)
+Jan 17 18:32:38 ori kernel: ACPI BIOS Error (bug): Failure creating named object [\_SB.PC00.PEG1.PEGP._DSM.USRG], AE_ALREADY_EXISTS (20230331/dsfield-184)
+Jan 17 18:32:38 ori kernel: ACPI Error: AE_ALREADY_EXISTS, CreateBufferField failure (20230331/dswload2-477)
+Jan 17 18:32:38 ori kernel: ACPI Error: Aborting method \_SB.PC00.PEG1.PEGP._DSM due to previous error (AE_ALREADY_EXISTS) (20230331/psparse-529)
+Jan 17 18:32:38 ori kernel: ACPI BIOS Error (bug): Failure creating named object [\_SB.PC00.PEG1.PEGP._DSM.USRG], AE_ALREADY_EXISTS (20230331/dsfield-184)
+Jan 17 18:32:38 ori kernel: ACPI Error: AE_ALREADY_EXISTS, CreateBufferField failure (20230331/dswload2-477)
+Jan 17 18:32:38 ori kernel: ACPI Error: Aborting method \_SB.PC00.PEG1.PEGP._DSM due to previous error (AE_ALREADY_EXISTS) (20230331/psparse-529)
+Jan 17 18:32:38 ori kernel: ACPI BIOS Error (bug): Failure creating named object [\_SB.PC00.PEG1.PEGP._DSM.USRG], AE_ALREADY_EXISTS (20230331/dsfield-184)
+Jan 17 18:32:38 ori kernel: ACPI Error: AE_ALREADY_EXISTS, CreateBufferField failure (20230331/dswload2-477)
+Jan 17 18:32:38 ori kernel: ACPI Error: Aborting method \_SB.PC00.PEG1.PEGP._DSM due to previous error (AE_ALREADY_EXISTS) (20230331/psparse-529)
+Jan 17 18:32:38 ori kernel: ACPI BIOS Error (bug): Failure creating named object [\_SB.PC00.PEG1.PEGP._DSM.USRG], AE_ALREADY_EXISTS (20230331/dsfield-184)
+Jan 17 18:32:38 ori kernel: ACPI Error: AE_ALREADY_EXISTS, CreateBufferField failure (20230331/dswload2-477)
+Jan 17 18:32:38 ori kernel: ACPI Error: Aborting method \_SB.PC00.PEG1.PEGP._DSM due to previous error (AE_ALREADY_EXISTS) (20230331/psparse-529)
+Jan 17 18:32:38 ori kernel: ACPI BIOS Error (bug): Failure creating named object [\_SB.PC00.PEG1.PEGP._DSM.USRG], AE_ALREADY_EXISTS (20230331/dsfield-184)
+Jan 17 18:32:38 ori kernel: ACPI Error: AE_ALREADY_EXISTS, CreateBufferField failure (20230331/dswload2-477)
+Jan 17 18:32:38 ori kernel: ACPI Error: Aborting method \_SB.PC00.PEG1.PEGP._DSM due to previous error (AE_ALREADY_EXISTS) (20230331/psparse-529)
+Jan 17 18:32:38 ori kernel: ACPI BIOS Error (bug): Failure creating named object [\_SB.PC00.PEG1.PEGP._DSM.USRG], AE_ALREADY_EXISTS (20230331/dsfield-184)
+Jan 17 18:32:38 ori kernel: ACPI Error: AE_ALREADY_EXISTS, CreateBufferField failure (20230331/dswload2-477)
+Jan 17 18:32:38 ori kernel: ACPI Error: Aborting method \_SB.PC00.PEG1.PEGP._DSM due to previous error (AE_ALREADY_EXISTS) (20230331/psparse-529)
+Jan 17 18:32:38 ori kernel: ACPI BIOS Error (bug): Failure creating named object [\_SB.PC00.PEG1.PEGP._DSM.USRG], AE_ALREADY_EXISTS (20230331/dsfield-184)
+Jan 17 18:32:38 ori kernel: ACPI Error: AE_ALREADY_EXISTS, CreateBufferField failure (20230331/dswload2-477)
+Jan 17 18:32:38 ori kernel: ACPI Error: Aborting method \_SB.PC00.PEG1.PEGP._DSM due to previous error (AE_ALREADY_EXISTS) (20230331/psparse-529)
+Jan 17 18:32:38 ori kernel: ACPI BIOS Error (bug): Failure creating named object [\_SB.PC00.PEG1.PEGP._DSM.USRG], AE_ALREADY_EXISTS (20230331/dsfield-184)
+Jan 17 18:32:38 ori kernel: ACPI Error: AE_ALREADY_EXISTS, CreateBufferField failure (20230331/dswload2-477)
+Jan 17 18:32:38 ori kernel: ACPI Error: Aborting method \_SB.PC00.PEG1.PEGP._DSM due to previous error (AE_ALREADY_EXISTS) (20230331/psparse-529)
+Jan 17 18:32:39 ori kernel: nvidia_uvm: module uses symbols nvUvmInterfaceDisableAccessCntr from proprietary module nvidia, inheriting taint.
+Jan 17 18:32:39 ori kernel: iwlwifi 0000:00:14.3: WRT: Invalid buffer destination
+Jan 17 18:32:39 ori bluetoothd[714]: src/plugin.c:plugin_init() System does not support csip plugin
+Jan 17 18:32:39 ori bluetoothd[714]: profiles/audio/micp.c:micp_init() D-Bus experimental not enabled
+Jan 17 18:32:39 ori bluetoothd[714]: src/plugin.c:plugin_init() System does not support micp plugin
+Jan 17 18:32:39 ori bluetoothd[714]: src/plugin.c:plugin_init() System does not support vcp plugin
+Jan 17 18:32:39 ori bluetoothd[714]: src/plugin.c:plugin_init() System does not support mcp plugin
+Jan 17 18:32:39 ori bluetoothd[714]: src/plugin.c:plugin_init() System does not support bass plugin
+Jan 17 18:32:39 ori bluetoothd[714]: src/plugin.c:plugin_init() System does not support bap plugin
+Jan 17 18:32:39 ori kernel: iwlwifi 0000:00:14.3: WRT: Invalid buffer destination
+Jan 17 18:32:39 ori kernel: snd_hda_intel 0000:00:1f.3: azx_get_response timeout, switching to polling mode: last cmd=0x000f0000
+Jan 17 18:32:40 ori kernel: snd_hda_intel 0000:00:1f.3: No response from codec, disabling MSI: last cmd=0x000f0000
+Jan 17 18:32:41 ori kernel: Bluetooth: hci0: Malformed MSFT vendor event: 0x02
+Jan 17 18:32:41 ori kernel: iwlwifi 0000:00:14.3: Microcode SW error detected. Restarting 0x0.
+Jan 17 18:32:41 ori kernel: iwlwifi 0000:00:14.3: Start IWL Error Log Dump:
+Jan 17 18:32:41 ori kernel: iwlwifi 0000:00:14.3: Transport status: 0x0000004A, valid: 6
+Jan 17 18:32:41 ori kernel: iwlwifi 0000:00:14.3: Loaded firmware version: 83.e8f84e98.0 so-a0-hr-b0-83.ucode
+Jan 17 18:32:41 ori kernel: iwlwifi 0000:00:14.3: 0x00000071 | NMI_INTERRUPT_UMAC_FATAL    
+Jan 17 18:32:41 ori kernel: iwlwifi 0000:00:14.3: 0x000002F0 | trm_hw_status0
+Jan 17 18:32:41 ori kernel: iwlwifi 0000:00:14.3: 0x00000000 | trm_hw_status1
+Jan 17 18:32:41 ori kernel: iwlwifi 0000:00:14.3: 0x004D9024 | branchlink2
+Jan 17 18:32:41 ori kernel: iwlwifi 0000:00:14.3: 0x004CF2F2 | interruptlink1
+Jan 17 18:32:41 ori kernel: iwlwifi 0000:00:14.3: 0x004CF2F2 | interruptlink2
+Jan 17 18:32:41 ori kernel: iwlwifi 0000:00:14.3: 0x00015346 | data1
+Jan 17 18:32:41 ori kernel: iwlwifi 0000:00:14.3: 0x00000010 | data2
+Jan 17 18:32:41 ori kernel: iwlwifi 0000:00:14.3: 0x00000000 | data3
+Jan 17 18:32:41 ori kernel: iwlwifi 0000:00:14.3: 0x002CBEEE | beacon time
+Jan 17 18:32:41 ori kernel: iwlwifi 0000:00:14.3: 0x00152884 | tsf low
+Jan 17 18:32:41 ori kernel: iwlwifi 0000:00:14.3: 0x00000000 | tsf hi
+Jan 17 18:32:41 ori kernel: iwlwifi 0000:00:14.3: 0x00000000 | time gp1
+Jan 17 18:32:41 ori kernel: iwlwifi 0000:00:14.3: 0x0015DC37 | time gp2
+Jan 17 18:32:41 ori kernel: iwlwifi 0000:00:14.3: 0x00000001 | uCode revision type
+Jan 17 18:32:41 ori kernel: iwlwifi 0000:00:14.3: 0x00000053 | uCode version major
+Jan 17 18:32:41 ori kernel: iwlwifi 0000:00:14.3: 0xE8F84E98 | uCode version minor
+Jan 17 18:32:41 ori kernel: iwlwifi 0000:00:14.3: 0x00000430 | hw version
+Jan 17 18:32:41 ori kernel: iwlwifi 0000:00:14.3: 0x00C80002 | board version
+Jan 17 18:32:41 ori kernel: iwlwifi 0000:00:14.3: 0x805DFC04 | hcmd
+Jan 17 18:32:41 ori kernel: iwlwifi 0000:00:14.3: 0x00020000 | isr0
+Jan 17 18:32:41 ori kernel: iwlwifi 0000:00:14.3: 0x00000000 | isr1
+Jan 17 18:32:41 ori kernel: iwlwifi 0000:00:14.3: 0x48F00002 | isr2
+Jan 17 18:32:41 ori kernel: iwlwifi 0000:00:14.3: 0x00C3000C | isr3
+Jan 17 18:32:41 ori kernel: iwlwifi 0000:00:14.3: 0x00000000 | isr4
+Jan 17 18:32:41 ori kernel: iwlwifi 0000:00:14.3: 0x001C0103 | last cmd Id
+Jan 17 18:32:41 ori kernel: iwlwifi 0000:00:14.3: 0x00015346 | wait_event
+Jan 17 18:32:41 ori kernel: iwlwifi 0000:00:14.3: 0x00000000 | l2p_control
+Jan 17 18:32:41 ori kernel: iwlwifi 0000:00:14.3: 0x00000020 | l2p_duration
+Jan 17 18:32:41 ori kernel: iwlwifi 0000:00:14.3: 0x00000000 | l2p_mhvalid
+Jan 17 18:32:41 ori kernel: iwlwifi 0000:00:14.3: 0x00001800 | l2p_addr_match
+Jan 17 18:32:41 ori kernel: iwlwifi 0000:00:14.3: 0x00000009 | lmpm_pmg_sel
+Jan 17 18:32:41 ori kernel: iwlwifi 0000:00:14.3: 0x00000000 | timestamp
+Jan 17 18:32:41 ori kernel: iwlwifi 0000:00:14.3: 0x00003054 | flow_handler
+Jan 17 18:32:41 ori kernel: iwlwifi 0000:00:14.3: Start IWL Error Log Dump:
+Jan 17 18:32:41 ori kernel: iwlwifi 0000:00:14.3: Transport status: 0x0000004A, valid: 7
+Jan 17 18:32:41 ori kernel: iwlwifi 0000:00:14.3: 0x2010190E | ADVANCED_SYSASSERT
+Jan 17 18:32:41 ori kernel: iwlwifi 0000:00:14.3: 0x00000000 | umac branchlink1
+Jan 17 18:32:41 ori kernel: iwlwifi 0000:00:14.3: 0x804703E0 | umac branchlink2
+Jan 17 18:32:41 ori kernel: iwlwifi 0000:00:14.3: 0xC0081500 | umac interruptlink1
+Jan 17 18:32:41 ori kernel: iwlwifi 0000:00:14.3: 0x00000000 | umac interruptlink2
+Jan 17 18:32:41 ori kernel: iwlwifi 0000:00:14.3: 0x0101971C | umac data1
+Jan 17 18:32:41 ori kernel: iwlwifi 0000:00:14.3: 0xDEADBEEF | umac data2
+Jan 17 18:32:41 ori kernel: iwlwifi 0000:00:14.3: 0xDEADBEEF | umac data3
+Jan 17 18:32:41 ori kernel: iwlwifi 0000:00:14.3: 0x00000053 | umac major
+Jan 17 18:32:41 ori kernel: iwlwifi 0000:00:14.3: 0xE8F84E98 | umac minor
+Jan 17 18:32:41 ori kernel: iwlwifi 0000:00:14.3: 0x0015DC31 | frame pointer
+Jan 17 18:32:41 ori kernel: iwlwifi 0000:00:14.3: 0xC0886BE0 | stack pointer
+Jan 17 18:32:41 ori kernel: iwlwifi 0000:00:14.3: 0x0024010D | last host cmd
+Jan 17 18:32:41 ori kernel: iwlwifi 0000:00:14.3: 0x00000000 | isr status reg
+Jan 17 18:32:41 ori kernel: iwlwifi 0000:00:14.3: IML/ROM dump:
+Jan 17 18:32:41 ori kernel: iwlwifi 0000:00:14.3: 0x00000B03 | IML/ROM error/state
+Jan 17 18:32:41 ori kernel: iwlwifi 0000:00:14.3: 0x0000508D | IML/ROM data1
+Jan 17 18:32:41 ori kernel: iwlwifi 0000:00:14.3: 0x00000090 | IML/ROM WFPM_AUTH_KEY_0
+Jan 17 18:32:41 ori kernel: iwlwifi 0000:00:14.3: Fseq Registers:
+Jan 17 18:32:41 ori kernel: iwlwifi 0000:00:14.3: 0x60000000 | FSEQ_ERROR_CODE
+Jan 17 18:32:41 ori kernel: iwlwifi 0000:00:14.3: 0x00340002 | FSEQ_TOP_INIT_VERSION
+Jan 17 18:32:41 ori kernel: iwlwifi 0000:00:14.3: 0x00150001 | FSEQ_CNVIO_INIT_VERSION
+Jan 17 18:32:41 ori kernel: iwlwifi 0000:00:14.3: 0x0000A482 | FSEQ_OTP_VERSION
+Jan 17 18:32:41 ori kernel: iwlwifi 0000:00:14.3: 0x00000003 | FSEQ_TOP_CONTENT_VERSION
+Jan 17 18:32:41 ori kernel: iwlwifi 0000:00:14.3: 0x4552414E | FSEQ_ALIVE_TOKEN
+Jan 17 18:32:41 ori kernel: iwlwifi 0000:00:14.3: 0x00080401 | FSEQ_CNVI_ID
+Jan 17 18:32:41 ori kernel: iwlwifi 0000:00:14.3: 0x01300504 | FSEQ_CNVR_ID
+Jan 17 18:32:41 ori kernel: iwlwifi 0000:00:14.3: 0x00080401 | CNVI_AUX_MISC_CHIP
+Jan 17 18:32:41 ori kernel: iwlwifi 0000:00:14.3: 0x01300504 | CNVR_AUX_MISC_CHIP
+Jan 17 18:32:41 ori kernel: iwlwifi 0000:00:14.3: 0x05B0905B | CNVR_SCU_SD_REGS_SD_REG_DIG_DCDC_VTRIM
+Jan 17 18:32:41 ori kernel: iwlwifi 0000:00:14.3: 0x0000025B | CNVR_SCU_SD_REGS_SD_REG_ACTIVE_VDIG_MIRROR
+Jan 17 18:32:41 ori kernel: iwlwifi 0000:00:14.3: 0x00150001 | FSEQ_PREV_CNVIO_INIT_VERSION
+Jan 17 18:32:41 ori kernel: iwlwifi 0000:00:14.3: 0x00340002 | FSEQ_WIFI_FSEQ_VERSION
+Jan 17 18:32:41 ori kernel: iwlwifi 0000:00:14.3: 0x00340002 | FSEQ_BT_FSEQ_VERSION
+Jan 17 18:32:41 ori kernel: iwlwifi 0000:00:14.3: 0x000001AE | FSEQ_CLASS_TP_VERSION
+Jan 17 18:32:41 ori kernel: iwlwifi 0000:00:14.3: UMAC CURRENT PC: 0x8048f214
+Jan 17 18:32:41 ori kernel: iwlwifi 0000:00:14.3: LMAC1 CURRENT PC: 0xd0
+Jan 17 18:32:41 ori kernel: iwlwifi 0000:00:14.3: WRT: Collecting data: ini trigger 4 fired (delay=0ms).
+Jan 17 18:32:41 ori kernel: iwlwifi 0000:00:14.3: WRT: Invalid buffer destination
+Jan 17 18:32:41 ori kernel: snd_hda_intel 0000:00:1f.3: Codec #0 probe error; disabling it...
+Jan 17 18:32:42 ori dbus-broker-launch[652]: Activation request for 'org.freedesktop.resolve1' failed: The systemd unit 'dbus-org.freedesktop.resolve1.service' could not be found.
+Jan 17 18:32:44 ori kernel: Xorg[825]: memfd_create() called without MFD_EXEC or MFD_NOEXEC_SEAL set
+Jan 17 18:32:44 ori sddm[822]: Failed to read display number from pipe
+Jan 17 18:32:44 ori sddm[822]: Attempt 1 starting the Display server on vt 2 failed
+Jan 17 18:32:47 ori sddm[822]: Failed to read display number from pipe
+Jan 17 18:32:47 ori sddm[822]: Attempt 2 starting the Display server on vt 2 failed
+Jan 17 18:32:50 ori sddm[822]: Failed to read display number from pipe
+Jan 17 18:32:50 ori sddm[822]: Attempt 3 starting the Display server on vt 2 failed
+Jan 17 18:32:50 ori sddm[822]: Could not start Display server on vt 2
+Jan 17 18:33:10 ori dbus-broker-launch[652]: Activation request for 'org.freedesktop.home1' failed: The systemd unit 'dbus-org.freedesktop.home1.service' could not be found.
+Jan 17 18:33:11 ori systemd-xdg-autostart-generator[900]: Configuration file /home/lizhe/.config/autostart/jetbrains-toolbox.desktop is marked executable. Please remove executable permission bits. Proceeding anyway.
+Jan 17 18:33:11 ori systemd-xdg-autostart-generator[900]: /home/lizhe/.config/autostart/mathpix-snipping-tool.desktop: not generating unit, error parsing Exec= line: Is a directory
+Jan 17 18:33:11 ori systemd[894]: espanso.service: Failed with result 'exit-code'.
+Jan 17 18:33:14 ori systemd[894]: espanso.service: Failed with result 'exit-code'.
+Jan 17 18:33:17 ori systemd[894]: espanso.service: Failed with result 'exit-code'.
+Jan 17 18:33:21 ori systemd[894]: espanso.service: Failed with result 'exit-code'.
+Jan 17 18:33:24 ori systemd[894]: espanso.service: Failed with result 'exit-code'.
+Jan 17 18:33:27 ori systemd[894]: espanso.service: Failed with result 'exit-code'.
+Jan 17 18:33:30 ori systemd[894]: espanso.service: Failed with result 'exit-code'.
+Jan 17 18:33:34 ori systemd[894]: espanso.service: Failed with result 'exit-code'.
+Jan 17 18:33:37 ori systemd[894]: espanso.service: Failed with result 'exit-code'.
+Jan 17 18:33:40 ori systemd[894]: espanso.service: Failed with result 'exit-code'.
+Jan 17 18:33:43 ori systemd[894]: espanso.service: Failed with result 'exit-code'.
+Jan 17 18:33:47 ori systemd[894]: espanso.service: Failed with result 'exit-code'.
+Jan 17 18:33:48 ori systemd[894]: espanso.service: Failed with result 'exit-code'.
+Jan 17 18:33:51 ori systemd[894]: espanso.service: Failed with result 'exit-code'.
+Jan 17 18:33:54 ori systemd[894]: espanso.service: Failed with result 'exit-code'.
+Jan 17 18:33:57 ori systemd[894]: espanso.service: Failed with result 'exit-code'.
+Jan 17 18:34:01 ori systemd[894]: espanso.service: Failed with result 'exit-code'.
+Jan 17 18:34:04 ori systemd[894]: espanso.service: Failed with result 'exit-code'.
+Jan 17 18:34:07 ori systemd[894]: espanso.service: Failed with result 'exit-code'.
+Jan 17 18:34:10 ori systemd[894]: espanso.service: Failed with result 'exit-code'.
+Jan 17 18:34:14 ori systemd[894]: espanso.service: Failed with result 'exit-code'.
+Jan 17 18:34:17 ori systemd[894]: espanso.service: Failed with result 'exit-code'.
+Jan 17 18:34:20 ori systemd[894]: espanso.service: Failed with result 'exit-code'.
+Jan 17 18:34:23 ori systemd[894]: espanso.service: Failed with result 'exit-code'.
+Jan 17 18:34:27 ori systemd[894]: espanso.service: Failed with result 'exit-code'.
+Jan 17 18:34:30 ori systemd[894]: espanso.service: Failed with result 'exit-code'.
+Jan 17 18:34:33 ori systemd[894]: espanso.service: Failed with result 'exit-code'.
+Jan 17 18:34:36 ori systemd[894]: espanso.service: Failed with result 'exit-code'.
+Jan 17 18:34:40 ori systemd[894]: espanso.service: Failed with result 'exit-code'.
+Jan 17 18:34:43 ori systemd[894]: espanso.service: Failed with result 'exit-code'.
+Jan 17 18:34:46 ori systemd[894]: espanso.service: Failed with result 'exit-code'.
+Jan 17 18:34:49 ori systemd[894]: espanso.service: Failed with result 'exit-code'.
+Jan 17 18:34:53 ori systemd[894]: espanso.service: Failed with result 'exit-code'.
+Jan 17 18:34:56 ori systemd[894]: espanso.service: Failed with result 'exit-code'.
+Jan 17 18:34:59 ori systemd[894]: espanso.service: Failed with result 'exit-code'.
+Jan 17 18:35:02 ori systemd[894]: espanso.service: Failed with result 'exit-code'.
+Jan 17 18:35:06 ori systemd[894]: espanso.service: Failed with result 'exit-code'.
+Jan 17 18:35:09 ori systemd[894]: espanso.service: Failed with result 'exit-code'.
+Jan 17 18:35:12 ori systemd[894]: espanso.service: Failed with result 'exit-code'.
+Jan 17 18:35:15 ori systemd[894]: espanso.service: Failed with result 'exit-code'.
+Jan 17 18:35:19 ori systemd[894]: espanso.service: Failed with result 'exit-code'.
+Jan 17 18:35:22 ori systemd[894]: espanso.service: Failed with result 'exit-code'.
+Jan 17 18:35:25 ori systemd[894]: espanso.service: Failed with result 'exit-code'.
+Jan 17 18:35:28 ori systemd[894]: espanso.service: Failed with result 'exit-code'.
+Jan 17 18:35:32 ori systemd[894]: espanso.service: Failed with result 'exit-code'.
+Jan 17 18:35:35 ori systemd[894]: espanso.service: Failed with result 'exit-code'.
+Jan 17 18:35:38 ori systemd[894]: espanso.service: Failed with result 'exit-code'.
+Jan 17 18:35:41 ori systemd[894]: espanso.service: Failed with result 'exit-code'.
+Jan 17 18:35:45 ori systemd[894]: espanso.service: Failed with result 'exit-code'.
+Jan 17 18:35:48 ori systemd[894]: espanso.service: Failed with result 'exit-code'.
+Jan 17 18:35:51 ori systemd[894]: espanso.service: Failed with result 'exit-code'.
+Jan 17 18:35:54 ori systemd[894]: espanso.service: Failed with result 'exit-code'.
+Jan 17 18:35:58 ori systemd[894]: espanso.service: Failed with result 'exit-code'.
+Jan 17 18:36:01 ori systemd[894]: espanso.service: Failed with result 'exit-code'.
+Jan 17 18:36:04 ori systemd[894]: espanso.service: Failed with result 'exit-code'.
+Jan 17 18:36:07 ori systemd[894]: espanso.service: Failed with result 'exit-code'.
+Jan 17 18:36:11 ori systemd[894]: espanso.service: Failed with result 'exit-code'.
+Jan 17 18:36:14 ori systemd[894]: espanso.service: Failed with result 'exit-code'.
+Jan 17 18:36:17 ori systemd[894]: espanso.service: Failed with result 'exit-code'.
+Jan 17 18:36:20 ori systemd[894]: espanso.service: Failed with result 'exit-code'.
+Jan 17 18:36:24 ori systemd[894]: espanso.service: Failed with result 'exit-code'.
+Jan 17 18:36:27 ori systemd[894]: espanso.service: Failed with result 'exit-code'.
+Jan 17 18:36:30 ori systemd[894]: espanso.service: Failed with result 'exit-code'.
+Jan 17 18:36:33 ori systemd[894]: espanso.service: Failed with result 'exit-code'.
+Jan 17 18:36:37 ori systemd[894]: espanso.service: Failed with result 'exit-code'.
+Jan 17 18:36:40 ori systemd[894]: espanso.service: Failed with result 'exit-code'.
+Jan 17 18:36:43 ori systemd[894]: espanso.service: Failed with result 'exit-code'.
+Jan 17 18:36:46 ori systemd[894]: espanso.service: Failed with result 'exit-code'.
+Jan 17 18:36:50 ori systemd[894]: espanso.service: Failed with result 'exit-code'.
+Jan 17 18:36:53 ori systemd[894]: espanso.service: Failed with result 'exit-code'.
+Jan 17 18:36:56 ori systemd[894]: espanso.service: Failed with result 'exit-code'.
+Jan 17 18:36:59 ori systemd[894]: espanso.service: Failed with result 'exit-code'.
+Jan 17 18:37:03 ori systemd[894]: espanso.service: Failed with result 'exit-code'.
+Jan 17 18:37:06 ori systemd[894]: espanso.service: Failed with result 'exit-code'.
+Jan 17 18:37:09 ori systemd[894]: espanso.service: Failed with result 'exit-code'.
+Jan 17 18:37:12 ori systemd[894]: espanso.service: Failed with result 'exit-code'.
+Jan 17 18:37:16 ori systemd[894]: espanso.service: Failed with result 'exit-code'.
+Jan 17 18:37:19 ori systemd[894]: espanso.service: Failed with result 'exit-code'.
+Jan 17 18:37:22 ori systemd[894]: espanso.service: Failed with result 'exit-code'.
+Jan 17 18:37:25 ori systemd[894]: espanso.service: Failed with result 'exit-code'.
+Jan 17 18:37:29 ori systemd[894]: espanso.service: Failed with result 'exit-code'.
+Jan 17 18:37:32 ori systemd[894]: espanso.service: Failed with result 'exit-code'.
+Jan 17 18:37:35 ori systemd[894]: espanso.service: Failed with result 'exit-code'.
+Jan 17 18:37:38 ori systemd[894]: espanso.service: Failed with result 'exit-code'.
+Jan 17 18:37:42 ori systemd[894]: espanso.service: Failed with result 'exit-code'.
+Jan 17 18:37:45 ori systemd[894]: espanso.service: Failed with result 'exit-code'.
+Jan 17 18:37:48 ori systemd[894]: espanso.service: Failed with result 'exit-code'.
+Jan 17 18:37:51 ori systemd[894]: espanso.service: Failed with result 'exit-code'.
+Jan 17 18:37:55 ori systemd[894]: espanso.service: Failed with result 'exit-code'.
+Jan 17 18:37:58 ori systemd[894]: espanso.service: Failed with result 'exit-code'.
+Jan 17 18:38:01 ori systemd[894]: espanso.service: Failed with result 'exit-code'.
+Jan 17 18:38:04 ori systemd[894]: espanso.service: Failed with result 'exit-code'.
+Jan 17 18:38:08 ori systemd[894]: espanso.service: Failed with result 'exit-code'.
+Jan 17 18:38:11 ori systemd[894]: espanso.service: Failed with result 'exit-code'.
+Jan 17 18:38:14 ori systemd[894]: espanso.service: Failed with result 'exit-code'.
+Jan 17 18:38:17 ori systemd[894]: espanso.service: Failed with result 'exit-code'.
+Jan 17 18:38:21 ori systemd[894]: espanso.service: Failed with result 'exit-code'.
+Jan 17 18:38:24 ori systemd[894]: espanso.service: Failed with result 'exit-code'.
+Jan 17 18:38:27 ori systemd[894]: espanso.service: Failed with result 'exit-code'.
+Jan 17 18:38:30 ori systemd[894]: espanso.service: Failed with result 'exit-code'.
+Jan 17 18:38:34 ori systemd[894]: espanso.service: Failed with result 'exit-code'.
+Jan 17 18:38:37 ori systemd[894]: espanso.service: Failed with result 'exit-code'.
+Jan 17 18:38:40 ori systemd[894]: espanso.service: Failed with result 'exit-code'.
+Jan 17 18:38:43 ori systemd[894]: espanso.service: Failed with result 'exit-code'.
+Jan 17 18:38:47 ori systemd[894]: espanso.service: Failed with result 'exit-code'.
+Jan 17 18:38:50 ori systemd[894]: espanso.service: Failed with result 'exit-code'.
+Jan 17 18:38:53 ori systemd[894]: espanso.service: Failed with result 'exit-code'.
+Jan 17 18:38:56 ori systemd[894]: espanso.service: Failed with result 'exit-code'.
+Jan 17 18:39:00 ori systemd[894]: espanso.service: Failed with result 'exit-code'.
+Jan 17 18:39:03 ori systemd[894]: espanso.service: Failed with result 'exit-code'.
+Jan 17 18:39:06 ori systemd[894]: espanso.service: Failed with result 'exit-code'.
+Jan 17 18:39:09 ori systemd[894]: espanso.service: Failed with result 'exit-code'.
+Jan 17 18:39:10 ori sddm[822]: Signal received: SIGTERM
+Jan 17 18:39:11 ori dbus-broker-launch[652]: Activation request for 'org.freedesktop.nm_dispatcher' failed.
+Jan 17 18:39:11 ori NetworkManager[654]: <warn>  [1705487951.1641] dispatcher: (15) failed (after 0.001 sec): Could not activate remote peer: activation request failed: unit is invalid.
+Jan 17 18:39:11 ori dbus-broker-launch[652]: Activation request for 'org.freedesktop.nm_dispatcher' failed.
+Jan 17 18:39:12 ori kernel: watchdog: watchdog0: watchdog did not stop!
